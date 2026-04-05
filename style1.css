@@ -1,0 +1,15 @@
+*{
+    background-color: bisque;
+}
+#about{
+    padding:40px; 
+    text-align:center;
+    padding-right: 50px;
+    padding-left: 50px; 
+    color:white;
+    background-color: rgba(0, 0, 0, 0.34);
+    border-radius: 12px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 100px;
+}
